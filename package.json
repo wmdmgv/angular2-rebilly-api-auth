@@ -1,6 +1,6 @@
 {
   "name": "angular2-rebilly-api-auth",
-  "version": "1.0",
+  "version": "0.0.1",
   "description": "This is a simple example that shows how to add authentication to an Angular2 (ng2) app with use some API.",
   "main": "",
   "scripts": {
